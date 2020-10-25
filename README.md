@@ -1,1 +1,3 @@
 # git-coursee
+
+## project notes
